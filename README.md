@@ -3,7 +3,7 @@
 [Español](./README.es.md) | **English**
 
 [![npm version](https://img.shields.io/npm/v/ng-hub-ui-skeleton.svg)](https://www.npmjs.com/package/ng-hub-ui-skeleton)
-[![license](https://img.shields.io/npm/l/ng-hub-ui-skeleton.svg)](https://github.com/carlos-morcillo/ng-hub-ui/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/ng-hub-ui-skeleton.svg)](https://github.com/hub-env/hub-ui/blob/main/LICENSE)
 
 Dynamic Angular skeleton placeholders driven by a compact Emmet-like DSL, reusable presets, responsive values, variants, and programmatic preset registration.
 
@@ -14,6 +14,7 @@ This package is part of [Hub UI](https://hubui.dev/en/), a collection of Angular
 - Docs: https://hubui.dev/en/skeleton/overview/
 - Live examples: https://hubui.dev/en/skeleton/examples/
 - Hub UI: https://hubui.dev/en/
+- Hub UI on GitHub (issues, roadmap and contributing): https://github.com/hub-env/hub-ui
 
 ## 🧩 Library Family `ng-hub-ui`
 
@@ -387,7 +388,7 @@ Contributions are welcome. Please open an issue to discuss substantial changes b
 
 ## ☕ Support
 
-- **Issues**: [GitHub Issues](https://github.com/carlos-morcillo/ng-hub-ui/issues)
+- **Issues**: [GitHub Issues](https://github.com/hub-env/hub-ui/issues)
 - **Author**: [Carlos Morcillo](https://www.carlosmorcillo.com)
 
 ## 📄 License
